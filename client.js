@@ -8,6 +8,7 @@ const dreams = [
   'Find and count some sheep',
   'Climb a really tall mountain',
   'Wash the dishes'
+];
 
 // define variables that reference elements on our page
 const dreamsList = document.getElementById('dreams');
